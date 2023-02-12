@@ -8,3 +8,5 @@ function Produto(nome,estoque){
         configurable: true // configuravel
     });
 }
+const p1 = new Produto("levy", 3);
+console.log(p1)
