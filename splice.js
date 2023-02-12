@@ -4,3 +4,4 @@ const nomes = ["Kayke", "Larissa", "Patolina", "Careca", "Zezo", "Queixada"];
 const removido = nomes.splice(3, 2, "Armando", "Junior");
 console.log(nomes);
 console.log(removido);
+//aula 82

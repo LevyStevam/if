@@ -16,3 +16,4 @@ console.log(levy)
 const dividido = ["levy", "stevam", "queiroz"];
 let g = dividido.join(" ");
 console.log(g)
+//aulas 81 e 83
