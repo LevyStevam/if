@@ -39,8 +39,7 @@ axios("pessoas.json")
 function carrega(json){
   for(let pessoa of json){
     const resultado = document.querySelector(".resultado");
-    let name = pessoa.nome
-1
+    let name = pessoa.nome;
     resultado.innerHTML = name;
   }
 }
